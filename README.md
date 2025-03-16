@@ -50,5 +50,5 @@ Use code with caution.
 Для компиляции программы используйте компилятор C++ (например, g++) с поддержкой C++17 или более поздней версии:
 
 ```bash
-g++ graph_distance.cpp -o graph_distance -std=c++17
+g++ task_vk_c++.cpp -o graph_distance -std=c++17
 
